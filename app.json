@@ -1,0 +1,11 @@
+{
+    "name": "Promote Route Webhook Heroku",
+    "description": "A Better WhatsApp™ Experience",
+    "repository": "https://github.com/PromoteRoute/Webhook-Heroku",
+    "logo": "https://cdn.promoteroute.com/wp-content/uploads/2022/02/cropped-Promote-Route-App-Icon-White-Fillable-512x512-1-192x192.png",
+    "keywords": [
+        "node",
+        "express",
+        "webhook"
+    ]
+}
